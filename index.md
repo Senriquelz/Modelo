@@ -59,4 +59,11 @@
         }
     }
 </script>
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="intents"
+  agent-id="10a5a739-c5b6-4ad3-aa83-244b035b1fc4"
+  language-code="es"
+></df-messenger>
 
